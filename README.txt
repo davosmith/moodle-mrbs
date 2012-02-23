@@ -1,3 +1,8 @@
+If you have downloaded this version, please be aware that the most up-to-date code can be found here:
+https://github.com/arborrow/moodle-block_mrbs
+
+This repo was originally created whilst upgrading the block to Moodle 2.x and is no longer updated.
+
 This is the Moodle 2.0 version of this block, it will not work in Moodle 1.9 (or below) - please download earlier versions from here: http://moodle.org/mod/data/view.php?d=13&rid=734
 
 * MRBS Block - Bugs, Feature Requests, and Improvements *
